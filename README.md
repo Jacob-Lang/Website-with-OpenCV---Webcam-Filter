@@ -11,6 +11,7 @@ The website is hosted through GitHub pages and can be found here:
 https://jacob-lang.github.io/Website-with-OpenCV---Webcam-Filter/
 
 An example of the filtered image can be seen here:
+
 ![A still from my custom webcam filter](https://github.com/Jacob-Lang/Website-with-OpenCV---Webcam-Filter/blob/master/still_from_webcam.png)
 
 As reference for the JavaScript part I learnt a lot from the tutorials provided here: 
